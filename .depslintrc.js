@@ -9,7 +9,7 @@ module.exports = {
     '**/*-provider/**',
     '**/*.json',
   ],
-  modulePattern: [
+  modulePattern: [aaaaaaaa
     {
       pattern: /ConfigConsumer.*renderEmpty/ms,
       module: '../empty',
